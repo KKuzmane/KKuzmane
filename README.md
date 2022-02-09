@@ -5,6 +5,6 @@ I'm Kristine. I am always open to learn something new, and I love to use my min
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/kkuzmane/) or send an email to [kristinekuzmane@gmail.com](mailto:kristinekuzmane@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 - ⚡ Fun facts:  
--                few years ago I built my own line tracking robot, 
+-                few years ago I built my own line tracking robot 
 -                I love to play lasertag
 -                and I enjoy video games.
